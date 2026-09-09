@@ -1,0 +1,25 @@
+Electrons are emitted when light of sufficient frequency falls on a metal surface.
+Based on the Photoelectric Effect.
+Applications
+Solar cells
+Light sensors
+Photodiodes
+(c) Field Emission
+Produced by applying a very strong electric field.
+The field pulls electrons out of the metal.
+Applications
+Electron microscopes
+Flat-panel displays
+(d) Secondary Emission
+Occurs when high-energy electrons strike a metal surface, causing additional electrons to be released.
+Applications
+Electron multipliers
+Photomultiplier tubes
+Carrier Phenomena in Semiconductors
+A semiconductor has electrical conductivity between that of a conductor and an insulator.
+Examples include:
+Silicon
+Germanium
+Charge Carriers
+There are two types of charge carriers:
+(a) Electrons

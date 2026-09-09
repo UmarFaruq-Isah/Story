@@ -1,0 +1,25 @@
+Negatively charged particles.
+Occupy the conduction band.
+(b) Holes
+Positive charge carriers created when electrons leave the valence band.
+Both electrons and holes contribute to current flow.
+Intrinsic Semiconductor
+An intrinsic semiconductor is pure and contains equal numbers of electrons and holes.
+Characteristics:
+No impurity atoms.
+Low conductivity.
+Conductivity increases with temperature.
+Extrinsic Semiconductor
+Conductivity is increased by adding impurities (doping).
+N-type Semiconductor
+Formed by adding pentavalent impurities.
+Majority carriers: Electrons.
+Minority carriers: Holes.
+Examples of dopants:
+Phosphorus
+Arsenic
+Antimony
+P-type Semiconductor
+Produced by adding trivalent impurities.
+Majority carriers:
+Holes
