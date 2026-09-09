@@ -1,0 +1,27 @@
+Electrons in Metals and Electron Emission, Carrier and Transport Phenomena in Semiconductors
+1. Electrons in Metals
+Metals are good conductors of electricity because they contain a large number of free electrons. These
+electrons are loosely bound to their atoms and can move freely throughout the metal when an electric
+field is applied.,Metals are good conductors of electricity because they contain a large number of free
+electrons. These electrons are loosely bound to their atoms and can move freely throughout the metal
+when an electric field is applied.
+Characteristics of Electrons in Metals
+Metals have many free (conduction) electrons.
+These electrons move randomly in the absence of an electric field.
+When a voltage is applied, the electrons move in the opposite direction to the electric field, creating an
+electric current.
+Electrical conductivity depends on the number of free electrons and their mobility.
+Electron Drift Velocity
+The average velocity attained by electrons under an applied electric field is called the drift velocity.
+Electron Emission
+Electron emission is the process by which electrons escape from the surface of a material after receiving
+sufficient energy to overcome the work function.
+Types of Electron Emission
+(a) Thermionic Emission
+Occurs when a metal is heated to a high temperature.
+Heat provides enough energy for electrons to escape.
+Applications
+Vacuum tubes
+Cathode ray tubes (CRT)
+Electron microscopes
+(b) Photoelectric Emission
